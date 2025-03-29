@@ -26,7 +26,7 @@ where date(p.payment_date) = '2005-07-30' and p.payment_date = r.rental_date and
 
 ### ОТВЕТ:
 
-В первом случае функция обрабатывает лишние таблицы: inventory, rental, film
+В первом случае обрабатываются лишние таблицы: inventory, rental, film
 
 ![2](https://github.com/daroutine/index/blob/main/2.0.jpg)
 
