@@ -40,3 +40,9 @@ from payment p, customer c
 where date(p.payment_date) = '2005-07-30' and p.customer_id = c.customer_id `
 
 
+![2.3](https://github.com/daroutine/index/blob/main/21.jpg)
+![2.4](https://github.com/daroutine/index/blob/main/22.jpg)
+
+actual time в первом случае составляет 23545 actual time, во втором запросе составляет 2.5
+
+
